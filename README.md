@@ -177,7 +177,7 @@ Contributing
 ------------
 
 `msgpack-c` is developed on GitHub at [msgpack/msgpack-c](https://github.com/msgpack/msgpack-c).
-To report an issue or send a pull request, use the
+To report an issue or to send a pull request, use the
 [issue tracker](https://github.com/msgpack/msgpack-c/issues).
 
 Here's the list of [great contributors](https://github.com/msgpack/msgpack-c/graphs/contributors).
